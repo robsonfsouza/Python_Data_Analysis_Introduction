@@ -36,14 +36,14 @@ choco install anaconda3
 
 ## Intro to Python   
 ### Ipython  
-### Python main objects  
-### Index and slicing
+### Python main objects    
+### Index and slicing  
 
-## Numpy Arrays and Vectorized Computation
+## Numpy Arrays and Vectorized Computation.  
 
-## Pandas 1 Indexing, sorting, filtering
+## Pandas 1 Indexing, sorting, filtering.  
 
-## Pandas 2  
+## Pandas 2  Groupby, Pivot.  
 
 ## Matplot lib  
 
