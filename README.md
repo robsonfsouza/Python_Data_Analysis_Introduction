@@ -19,10 +19,13 @@ Python for data analysis.
 
 
 
-#Setting up the enviroment
-#Intro to Python 
-#Numpy
-#Pandas 1 
-#Pandas 2
-#Matplot lib
+#Setting up the enviroment  
+## Window
+Run the terminal as administrator and install anaconda 3
+#Intro to Python   
+#Numpy  
+#Pandas 1   
+#Pandas 2  
+#Matplot lib  
+
 
