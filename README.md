@@ -21,7 +21,7 @@ Python for data analysis.
 
 ## Setting up the enviroment   
 
-## Windows  
+### Windows  
 
 Install Windows terminal or Power Shell at microsoft store.  
 Run the terminal as administrator and install anaconda 3
@@ -31,9 +31,9 @@ Install the Anaconda package
 ```bash
 choco install anaconda3
 ```
-## Linux 
+### Linux 
 
-## Mac 
+### Mac 
 
 ## Intro to Python   
 ### Ipython  
