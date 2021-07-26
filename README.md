@@ -2,23 +2,24 @@ Python for data analysis.
 ==========================
 
 
+- [Python for data analysis.](#python-for-data-analysis)
+        - [Setting up the enviroment](#setting-up-the-enviroment)
+        - [Windows](#windows)
+        - [Linux](#linux)
+        - [Mac](#mac)
+        - [Intro to Python](#intro-to-python)
+                - [Ipython](#ipython)
+                - [Python main objects](#python-main-objects)
+                - [Index and slicing](#index-and-slicing)
+        - [Numpy Arrays and Vectorized Computation.](#numpy-arrays-and-vectorized-computation)
+        - [Pandas 1 Indexing, sorting, filtering.](#pandas-1-indexing-sorting-filtering)
+        - [Pandas 2  Groupby, Pivot.](#pandas-2--groupby-pivot)
+        - [Matplot lib](#matplot-lib)
 
-# TOC
-- [TOC](#toc)
-- [Setting up the enviroment](#setting-up-the-enviroment)
-- [Intro to Python](#intro-to-python)
-- [Numpy](#numpy)
-- [Pandas 1](#pandas-1)
-- [Pandas 2](#pandas-2)
-- [Matplot lib](#matplot-lib)
 
 
 
-
-
-
-
-# Setting up the enviroment   
+## Setting up the enviroment   
 
 ## Windows  
 
