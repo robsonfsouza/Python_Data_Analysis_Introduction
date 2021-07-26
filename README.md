@@ -1,12 +1,10 @@
 Python for data analysis.  
 ==========================
 
-
-- [Python for data analysis.](#python-for-data-analysis)  
-        - [Setting up the enviroment](#setting-up-the-enviroment)  
-        - [Windows](#windows)  
-        - [Linux](#linux)  
-        - [Mac](#mac)
+        - [Setting up the enviroment](#setting-up-the-enviroment)
+                - [Windows](#windows)
+                - [Linux](#linux)
+                - [Mac](#mac)  
         - [Intro to Python](#intro-to-python)
                 - [Ipython](#ipython)
                 - [Python main objects](#python-main-objects)
