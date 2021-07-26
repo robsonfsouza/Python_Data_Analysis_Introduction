@@ -5,7 +5,6 @@ Python for data analysis.
 
 # TOC
 - [TOC](#toc)
-- [Python for data analysis.](#python-for-data-analysis)
 - [Setting up the enviroment](#setting-up-the-enviroment)
 - [Intro to Python](#intro-to-python)
 - [Numpy](#numpy)
@@ -31,10 +30,21 @@ Install the Anaconda package
 ```bash
 choco install anaconda3
 ```
-# Intro to Python   
-# Numpy  
-# Pandas 1   
-# Pandas 2  
-# Matplot lib  
+## Linux 
+
+## Mac 
+
+## Intro to Python   
+### Ipython  
+### Python main objects  
+### Index and slicing
+
+## Numpy Arrays and Vectorized Computation
+
+## Pandas 1 Indexing, sorting, filtering
+
+## Pandas 2  
+
+## Matplot lib  
 
 
