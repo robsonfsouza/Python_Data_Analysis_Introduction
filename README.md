@@ -9,7 +9,7 @@ Python for data analysis.
                 - [Windows](#windows)
                 - [Linux](#linux)
                 - [Mac](#mac)  
-        - [Intro to Python:](#intro-to-python)  
+        - [Intro to Python:](#intro-to-python)
                 - [Ipython](#ipython)
                 - [Python main objects](#python-main-objects)
                 - [Index and slicing](#index-and-slicing)  
