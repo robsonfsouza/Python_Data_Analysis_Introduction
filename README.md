@@ -24,8 +24,8 @@ Python for data analysis.
 ## Windows  
 
 Install Windows terminal or Power Shell at microsoft store.  
-Run the terminal as administrator and install anaconda 3
-Istall chocolatey as the instructed by its website instruction.  
+Run the terminal as administrator and install anaconda 3.  
+Install chocolatey as the instructed by its website instruction.  
 https://chocolatey.org  
 Install the Anaconda package  
 ```bash
