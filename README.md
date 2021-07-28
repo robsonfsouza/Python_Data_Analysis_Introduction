@@ -32,6 +32,9 @@ choco install anaconda3
 ```
 ### Linux 
 
+The anaconda 3 package will depend on your Linux distribution.
+Follow the instructions seen here: https://docs.anaconda.com/anaconda/install/linux/
+
 ### Mac 
 
 ## Intro to Python   
