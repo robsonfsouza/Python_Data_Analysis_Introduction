@@ -43,11 +43,14 @@ Follow the instructions seen here: https://docs.anaconda.com/anaconda/install/li
 ### Index and slicing  
 
 ## Numpy Arrays and Vectorized Computation.  
+Python for Data Analysis Chapter 4
 
 ## Pandas 1 Indexing, sorting, filtering.  
+Python for Data Analysis Chapter 5
 
 ## Pandas 2  Groupby, Pivot.  
+Python for Data Analysis Chapter 7 and 9
 
 ## Matplot lib  
-
+Python for Data Analysis Chapter 8
 
